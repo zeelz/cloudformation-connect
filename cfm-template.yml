@@ -62,7 +62,7 @@ Resources:
       InstanceType: "t2.micro"
       Monitoring: false
       Tags:
-      - Value: "IaC Generator WorkShop"
+      - Value: "IaC Generator WorkShop - github"
         Key: "Workshop Name"
       CreditSpecification:
         CPUCredits: "standard"
